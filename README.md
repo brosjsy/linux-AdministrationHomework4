@@ -43,3 +43,13 @@ mv $oldfilename $newfilename
 echo The file has been renamed as $newfil
 ````
 ![image](https://github.com/user-attachments/assets/fa945a75-fc15-43d0-8647-f074d400e340)
+
+![image](https://github.com/user-attachments/assets/861d431f-2c38-46ac-a9b9-b8d2c19cdcb6)
+
+![image](https://github.com/user-attachments/assets/62f6ff65-cfc5-4dac-8052-8134d5d0615a)
+
+![image](https://github.com/user-attachments/assets/cf238191-b6ea-4edc-97ae-4629d3604848)
+
+![image](https://github.com/user-attachments/assets/4bf8ab71-c7d1-4211-9fe7-d626cbc1107f)
+
+![image](https://github.com/user-attachments/assets/3469b0a6-bf0a-4edf-a3dc-0bbd460b11f8)

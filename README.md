@@ -59,3 +59,23 @@ echo The file has been renamed as $newfil
 ![image](https://github.com/user-attachments/assets/70a51a49-ecfd-4579-bc69-f1fe81421653)
 
 ![image](https://github.com/user-attachments/assets/7fbf06f8-140f-43e1-8891-ec8726603826)
+
+•	Create a script to output "First day of Spring is March 20th"
+
+![image](https://github.com/user-attachments/assets/f1e7560f-2b2a-407c-ad35-bd288ddd76fd)
+![image](https://github.com/user-attachments/assets/23c0af46-3999-4915-b93b-23325baee03c)
+•	Create a script that will run commands, who, dmidecode, cal, and free
+
+![image](https://github.com/user-attachments/assets/05480630-aaf6-4731-989b-8196fb7128db)
+
+![image](https://github.com/user-attachments/assets/1521b341-b8c3-4eb4-8c58-e9d8e8bafa1d)
+
+•	Create a script that will touch a new file and then change its permissions to read, write and execute for everyone
+
+![image](https://github.com/user-attachments/assets/9ac922b4-6f99-4607-9aee-8a4db764c62f)
+
+![image](https://github.com/user-attachments/assets/e68f83d5-d1e6-43c6-887f-7be4dc158f5c)
+
+
+
+

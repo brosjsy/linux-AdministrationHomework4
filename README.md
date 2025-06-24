@@ -86,6 +86,51 @@ echo The file has been renamed as $newfil
 ![image](https://github.com/user-attachments/assets/4034ad06-1548-4d7c-92c2-4941ec812dcf)
 ![image](https://github.com/user-attachments/assets/fa076497-b38c-44fb-9943-d4df8403cd69)
 
+•	Write a case script that will give the option to the user to run commands as, top, iostat, free, /etc/cpuinfo, dmesg
+
+````#!/bin/bash
+
+# Display menu options
+echo "Choose a command to run:"
+echo "1) top"
+echo "2) iostat"
+echo "3) free"
+echo "4) /proc/cpuinfo"
+echo "5) dmesg"
+echo "Enter your choice (1-5):"
+read choice
+
+case $choice in
+    1)
+        echo "Running top (Press 'q' to exit)..."
+        top
+        ;;
+    2)
+        echo "Running iostat..."
+        iostat
+        ;;
+    3)
+        echo "Running free..."
+        free -h
+        ;;
+    4)
+        echo "Displaying /proc/cpuinfo..."
+        cat /proc/cpuinfo
+        ;;
+    5)
+        echo "Running dmesg..."
+        dmesg | less
+        ;;
+    *)
+        echo "Invalid option. Please choose between 1 and 5."
+        ;;
+esac
+````
+
+![image](https://github.com/user-attachments/assets/6ee5587c-6a23-4841-a870-e109afd24327)
+![image](https://github.com/user-attachments/assets/24c28cf0-bb76-4731-895b-a5d664e1c5ed)
+
+
 
 
 

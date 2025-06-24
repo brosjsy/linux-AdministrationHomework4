@@ -81,6 +81,12 @@ echo The file has been renamed as $newfil
 ![image](https://github.com/user-attachments/assets/aa9b142c-c5c5-4924-84fd-8b17d30c97b8)
 ![image](https://github.com/user-attachments/assets/6b823a90-11a7-4ba3-8564-7f8d7fa16147)
 
+•	Create a new file called empty and then write if-then statement to see if it can find any empty files in your home directory.  If yes then it should say "Your file exist"  If it does not then it should say "Your file does not exist"
+
+![image](https://github.com/user-attachments/assets/4034ad06-1548-4d7c-92c2-4941ec812dcf)
+![image](https://github.com/user-attachments/assets/fa076497-b38c-44fb-9943-d4df8403cd69)
+
+
 
 
 

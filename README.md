@@ -53,3 +53,9 @@ echo The file has been renamed as $newfil
 ![image](https://github.com/user-attachments/assets/4bf8ab71-c7d1-4211-9fe7-d626cbc1107f)
 
 ![image](https://github.com/user-attachments/assets/3469b0a6-bf0a-4edf-a3dc-0bbd460b11f8)
+
+•	Create a script to the output of ls -ltr to a file called golisting
+
+![image](https://github.com/user-attachments/assets/70a51a49-ecfd-4579-bc69-f1fe81421653)
+
+![image](https://github.com/user-attachments/assets/7fbf06f8-140f-43e1-8891-ec8726603826)

@@ -76,6 +76,11 @@ echo The file has been renamed as $newfil
 
 ![image](https://github.com/user-attachments/assets/e68f83d5-d1e6-43c6-887f-7be4dc158f5c)
 
+•	Create a script that will ask you for your parents name and then output your parents name on the screen as, Your parents names are 
+![image](https://github.com/user-attachments/assets/aa9b142c-c5c5-4924-84fd-8b17d30c97b8)![image](https://github.com/user-attachments/assets/6b823a90-11a7-4ba3-8564-7f8d7fa16147)
+
+
+
 
 
 
